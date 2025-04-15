@@ -1,3 +1,4 @@
+// Program to implement first of a given grammar
 #include <stdio.h>
 #include <ctype.h>
 #include <string.h>
